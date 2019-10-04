@@ -7,7 +7,7 @@ Site:
 https://teva.re/pokeapi
 ------------------------------------------------------------------------------------------------------------------------------
 Features Primaires:
-^^^^^^^^^^^^^^^^^^^
+-------------------
 Partie1:
 - Afficher les derniers sets
 - Afficher les cartes par set
@@ -21,7 +21,7 @@ Partie2:
   - Limitations techniques
 
 Features Secondaires:
-^^^^^^^^^^^^^^^^^^^
+---------------------
 Partie1:
 - Permettre de filtrer les cartes/decks par type
 - Enregistrer son deck
@@ -36,7 +36,7 @@ Idées de Ressources utiles à l'app et son développement
 ------------------------------------------------------------------------------------------------------------------------------
 
 Problèmes
-^^^^^^^^^
+---------
 Mineurs:
 - tbd
 Majeurs:
