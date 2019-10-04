@@ -37,8 +37,10 @@ Idées de Ressources utiles à l'app et son développement
 
 Problèmes
 ---------
+
 Mineurs:
 - tbd
+
 Majeurs:
 - tbd
 
